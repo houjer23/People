@@ -7,6 +7,6 @@ public class Instructor extends Person {
 	}
 	
 	public String toString() {
-		return super.toString() + " Salary: " + salary;
+		return super.toString() + ",    Salary: " + salary;
 	}
 }
