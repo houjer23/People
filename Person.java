@@ -8,6 +8,6 @@ public class Person {
 	}
 	
 	public String toString() {
-		return "Name: " + name + "    Year of Birth: " + birth + "   ";
+		return "Name: " + name + ",    Year of Birth: " + birth;
 	}
 }
