@@ -7,6 +7,6 @@ public class Scholar extends Person {
 	}
 	
 	public String toString() {
-		return super.toString() + " Major: " + major;
+		return super.toString() + ",    Major: " + major;
 	}
 }
